@@ -1,0 +1,31 @@
+<html>
+<title>
+28.9.2020.
+</title>
+<head>
+</head>
+<body style= "background-image:url('jpg/slikaa.jpg')">
+
+<dl>
+<li>Naslovnica</li>
+<li>O nama</li>
+<li>Kontakt</li>
+</dl>
+
+<ol>
+<li>HTML</li>
+<li>CS</li>
+<li>JavaScript</li>
+</ol>
+
+<dl>
+<dt><b>Hypertext markup language (HTML) </b></dt>
+<dd><i>Html je jzeik za označavanje azdržaja</i></dd>
+<dt><b>CSS</b></dt>
+<dd><i>CSS definira izgled elemneata HTML-a</i></dd>	
+</dl>
+
+<img src= "jpg/robot.jpg" align="right" width="320px" height="480px"/>
+
+</body>
+</html>
